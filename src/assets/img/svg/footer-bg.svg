@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1366" height="961" viewBox="0 0 1366 961">
+    <defs>
+        <style>
+            .cls-1{fill:#008bbf}
+        </style>
+    </defs>
+    <path id="footer-bkg" d="M5000 961V210.009s43-208 358-210c142.118-.9 207.293 45.215 270.739 91.333 77.18 56.1 151.8 112.2 359.26 83.663 378-52 378 205 378 205V961z" class="cls-1" transform="translate(-5000)"/>
+</svg>

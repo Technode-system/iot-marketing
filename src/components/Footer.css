@@ -1,0 +1,34 @@
+.footer {
+    background-color: #007FF0;
+    color: #fff;
+    background-image: url('./../assets/img/footer.png');
+    text-align: left;
+    padding: 5% 8%;
+    margin: 5% 0% 0% 0%;
+    font-family: "Noto Sans", sans-serif;
+    font-style: normal;
+    list-style: none;
+
+}
+
+.footer hr {
+    height: 1px;
+    background-color: rgba(221, 221, 221, 0.5);
+}
+
+.footer .address{
+    font-size: 0.8rem;
+    padding: 0rem 1rem 0rem 0rem;
+}
+
+.footer .address .title{
+    padding-top: 7%;
+    font-size: 01rem;
+}
+.footer .address div{
+    padding:10px 0px;
+}
+
+.footer .address div span{
+    padding-right: 2%;
+}
